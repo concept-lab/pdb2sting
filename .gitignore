@@ -1,0 +1,4 @@
+parameters_alexov
+__pycache__
+*.pyc
+LOG_*

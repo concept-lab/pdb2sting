@@ -1,0 +1,9 @@
+structure      = 3T6P.pdb
+sites          = all
+epsin          = 15
+ionicstr       = 0.1
+pbc_dimensions = 0
+ncpus          = 8
+output         = pKas_3T6P.out
+pH = 7
+structure_output = structure_3T6P.pdb, 7, amber
